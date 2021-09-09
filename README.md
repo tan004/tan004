@@ -26,9 +26,9 @@
 <a href="#"><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
 <a href="https://www.npmjs.com/"><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
 
-![zhuoxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tan004)
+![zhuoxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tan004)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tan004&layout=compact)](https://github.com/tan004/github-readme-stats)
 
-![Languages Used](https://github.com/tan004/github-stats/blob/master/generated/languages.svg)
 
 
 <!-- 
