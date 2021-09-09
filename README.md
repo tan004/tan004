@@ -27,7 +27,7 @@
 <a href="https://www.npmjs.com/"><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
 
 ![zhuoxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tan004&show_icons=true&theme=Gradient)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tan004&layout=compact)](https://github.com/tan004/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tan004&layout=compact)]
 
 
 
