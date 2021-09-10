@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [OpenBelly](https://github.com/tan004/capstone) that put together all web development skills I learn in 6 month.
 - 🌱 I’m currently learning Python, JavaScript, and more software engineering skills
-- ⚡ Fun fact: Take a shower usually unstick me on coding issues
+- ⚡ Fun fact: Take a shower usually unstick me from coding issues
 - 🌎 Travel, explore the world and cultures
 
 ### Toolbelts:         
